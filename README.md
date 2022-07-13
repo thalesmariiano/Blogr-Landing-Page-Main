@@ -1,6 +1,6 @@
 # Blogr-Landing-Page-Main
 
-## Preview site:
+## Preview site: https://expenses-chart-component-main-front-end-mentor.netlify.app/
 
 ## Made With:
 - HTML5
